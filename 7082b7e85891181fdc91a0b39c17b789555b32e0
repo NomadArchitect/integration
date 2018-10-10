@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "71c100f5_79c75d61",
+        "filename": "groups",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 18706
+      },
+      "writtenOn": "2018-10-10T22:05:41Z",
+      "side": 1,
+      "message": "ack that this is inconsistent rendering in Gerrit.",
+      "parentUuid": "d921a6f6_259e4326",
+      "range": {
+        "startLine": 1,
+        "startChar": 63,
+        "endLine": 1,
+        "endChar": 73
+      },
+      "revId": "7082b7e85891181fdc91a0b39c17b789555b32e0",
+      "serverId": "ccdefb6c-23ea-33ff-848c-339fc6ca2269",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "180944fb_39459d8a",
         "filename": "project.config",
         "patchSetId": 2
@@ -45,6 +69,30 @@
       "revId": "7082b7e85891181fdc91a0b39c17b789555b32e0",
       "serverId": "ccdefb6c-23ea-33ff-848c-339fc6ca2269",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "67b119e7_1a9af65f",
+        "filename": "project.config",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 18706
+      },
+      "writtenOn": "2018-10-10T22:05:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "180944fb_39459d8a",
+      "range": {
+        "startLine": 4,
+        "startChar": 9,
+        "endLine": 4,
+        "endChar": 15
+      },
+      "revId": "7082b7e85891181fdc91a0b39c17b789555b32e0",
+      "serverId": "ccdefb6c-23ea-33ff-848c-339fc6ca2269",
+      "unresolved": false
     }
   ]
 }
