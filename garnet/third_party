@@ -261,6 +261,11 @@
              remote="https://fuchsia.googlesource.com/third_party/rust-crates"
              revision="71c28e79bee81a11209cc2f7019e3d2afffffd22"
              gerrithost="https://fuchsia-review.googlesource.com"/>
+    <project name="third_party/snappy"
+             path="third_party/snappy"
+             remote="https://fuchsia.googlesource.com/third_party/snappy"
+             gerrithost="https://fuchsia-review.googlesource.com"
+             revision="624386507169716d08c3310e9d2852cee1b06d01"/>
     <project name="third_party/cargo-vendor"
              path="third_party/rust-mirrors/cargo-vendor"
              remote="https://fuchsia.googlesource.com/third_party/cargo-vendor"
