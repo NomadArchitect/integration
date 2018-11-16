@@ -1,0 +1,17 @@
+[
+    {
+        "ref": "e7864b6c1",
+        "host": "fuchsia-review.googlesource.com",
+        "project": "zircon"
+    },
+    {
+        "ref": "fdb53f953",
+        "host": "fuchsia-review.googlesource.com",
+        "project": "garnet"
+    },
+    {
+        "ref": "88cdf988b5",
+        "host": "fuchsia-review.googlesource.com",
+        "project": "third_party/go"
+    }
+]
