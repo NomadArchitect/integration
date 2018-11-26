@@ -1,0 +1,12 @@
+[
+    {
+        "ref": "refs/changes/12/226312/3",
+        "host": "fuchsia-review.googlesource.com",
+        "project": "zircon"
+    },
+    {
+        "ref": "refs/changes/32/223232/9",
+        "host": "fuchsia-review.googlesource.com",
+        "project": "garnet"
+    }
+]
