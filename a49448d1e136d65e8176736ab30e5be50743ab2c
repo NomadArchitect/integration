@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9d121cbd_4638f4b9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 5115
+      },
+      "writtenOn": "2018-11-26T17:58:02Z",
+      "side": 1,
+      "message": "FWIW, it would make navigation much easier if the targeted changes to be rolled would be included here directly as gerrit links. (And then they could be omitted from the announcement in mail, so not more work overall.)",
+      "revId": "a49448d1e136d65e8176736ab30e5be50743ab2c",
+      "serverId": "ccdefb6c-23ea-33ff-848c-339fc6ca2269",
+      "unresolved": true
+    }
+  ]
+}
