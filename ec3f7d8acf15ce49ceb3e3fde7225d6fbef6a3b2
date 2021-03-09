@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3a86ede1_1036b0af",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35964
+      },
+      "writtenOn": "2021-03-09T22:32:08Z",
+      "side": 1,
+      "message": "I kept this separate from the refs/heads/master config in this patchset, but I can instead change refs/heads/master -\u003e refs/heads/* (I wasn\u0027t sure if the * applies to the / character).",
+      "revId": "ec3f7d8acf15ce49ceb3e3fde7225d6fbef6a3b2",
+      "serverId": "ccdefb6c-23ea-33ff-848c-339fc6ca2269"
+    }
+  ]
+}
