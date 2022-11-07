@@ -1,6 +1,7 @@
 # UUID                                  	Group Name
 #
 5a479af62fc53622c9347cfb11c1f12de1e8c11f	nsylvain
+d719675d98afe3101d362b65c74dc4b4e24a3b67	Bypass CodeWord Checking
 global:Anonymous-Users                  	Anonymous Users
 global:Registered-Users                 	Registered Users
 mdb:copybara-git-writers                	mdb/copybara-git-writers
