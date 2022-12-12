@@ -4,4 +4,3 @@
 global:Anonymous-Users                  	Anonymous Users
 global:Registered-Users                 	Registered Users
 mdb:copybara-git-writers                	mdb/copybara-git-writers
-mdb:fuchsia-infra                       	mdb/fuchsia-infra
