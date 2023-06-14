@@ -1,7 +1,6 @@
 # UUID                                  	Group Name
 #
 5a479af62fc53622c9347cfb11c1f12de1e8c11f	nsylvain
-61aba915c500163c24d0e61938fa0f02eafca2ce	g
 global:Anonymous-Users                  	Anonymous Users
 global:Registered-Users                 	Registered Users
 mdb:copybara-git-writers                	mdb/copybara-git-writers
